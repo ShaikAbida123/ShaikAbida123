@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Shaik Abida</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="<img src="URL" alt="description" width="50" height="30">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" align="right" width="400" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikabida123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikabida123" /> </p>
 
